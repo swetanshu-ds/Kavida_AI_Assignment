@@ -7,7 +7,7 @@
 **2. The solutions for the Task3 is available in Task 3:.ipynb**
 
 
-**3. The solutions for the Task 2 is available in app.py file**
+**3. The solutions for the Task 2 is available in app.py file(With Docker Containerization)**
 
 
 
