@@ -1,5 +1,8 @@
 # Kavida_AI_Assignment
 
+## You can find all the colab notebook by opening this colab link:
+https://drive.google.com/drive/folders/18_Iv5dllXmK6wO4ZnGre1uurgWBbqwF6?usp=sharing
+
 
 # Rationale behind the BERT model
 
