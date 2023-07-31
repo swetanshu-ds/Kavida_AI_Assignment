@@ -59,3 +59,10 @@ Accuracy: Accuracy is the most straightforward metric and measures the proportio
 It is a simple and intuitive metric that provides an overall assessment of the model's performance.
 Rationale: Accuracy is useful when the classes in the dataset are balanced, i.e., there are approximately equal samples for each class. However, accuracy may not
 be suitable for imbalanced datasets, where one class dominates the others, as it can be misleading and mask the true performance of the model.
+
+
+
+
+
+1. The solutions for the Task1 is available in Task - 1 : -> Deep Learning.ipynb
+2. The solutions for the Task3 is available in Task 3:.ipynb
