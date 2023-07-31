@@ -1,5 +1,13 @@
 # Kavida_AI_Assignment
 
+**1. The solutions for the Task1 is available in Task - 1 : -> Deep Learning.ipynb**
+
+**2. The solutions for the Task3 is available in Task 3:.ipynb**
+
+
+**3. The solutions for the Task 2 is available in app.py file**
+
+
 
 # Problem Statement
 
