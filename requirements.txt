@@ -1,0 +1,7 @@
+fastparquet
+numpy
+pandas
+transformers
+scikit-learn
+nltk
+torch
